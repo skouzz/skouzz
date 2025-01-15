@@ -16,6 +16,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skouzz/skouzz/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/skouzz/skouzz/output/github-snake-dark.svg" />
 </picture>
+#
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=skouzz&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=skouzz&theme=gotham&hide_border=false)<br/>
