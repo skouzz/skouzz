@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=skouzz&icon=0&color=12)](https://visitcount.itsvg.in)
+![Visitors](https://profile-counter.glitch.me/skouzz/count.svg)
 
 # 👋 Hi, I'm Oussama Ben Mahmoud
 
