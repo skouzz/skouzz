@@ -1,4 +1,4 @@
-![Visitors](https://profile-counter.glitch.me/skouzz/count.svg)
+[![Visits](https://badges.pufler.dev/visits/skouzz/skouzz)](https://github.com/skouzz)
 
 # 👋 Hi, I'm Oussama Ben Mahmoud
 
