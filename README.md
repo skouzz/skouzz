@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=skouzz&icon=0&color=12)](https://visitcount.itsvg.in)
+
 # 👋 Hi, I'm Oussama Ben Mahmoud
 
 ### 💻 Full Stack Web Developer | Final Year Computer Engineering Student
