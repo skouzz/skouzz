@@ -1,4 +1,4 @@
-[![Visits](https://badges.pufler.dev/visits/skouzz/skouzz)](https://github.com/skouzz)
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=skouzz&label=Profile%20Views&countColor=%23F4DB7D&style=flat&labelStyle=upper)
 
 # 👋 Hi, I'm Oussama Ben Mahmoud
 
