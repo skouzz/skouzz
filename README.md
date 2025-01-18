@@ -1,4 +1,4 @@
-![Visitor Count](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Profile%20Views%20✨%20&fontSize=20)
+![Visitors](https://profile-counter.glitch.me/skouzz/count.svg)
 
 # 👋 Hi, I'm Oussama Ben Mahmoud
 
