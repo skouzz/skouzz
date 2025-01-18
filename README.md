@@ -1,4 +1,4 @@
-![Profile Views](https://api.visitorbadge.io/api/visitors?path=skouzz&label=Profile%20Views&countColor=%23F4DB7D&style=flat&labelStyle=upper)
+![Visitor Count](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Profile%20Views%20✨%20&fontSize=20)
 
 # 👋 Hi, I'm Oussama Ben Mahmoud
 
