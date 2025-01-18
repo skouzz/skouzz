@@ -1,4 +1,4 @@
-![Visitor Badge](https://github-profile-trophy.vercel.app/?username=skouzz&theme=algolia&no-frame=true&column=3&margin-w=15&margin-h=15)
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=skouzz&label=Profile%20Views&countColor=%23F4DB7D&style=flat&labelStyle=upper)
 
 # 👋 Hi, I'm Oussama Ben Mahmoud
 
