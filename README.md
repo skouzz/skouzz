@@ -2,10 +2,10 @@
 
 # 👋 Hi, I'm Oussama Ben Mahmoud
 
-### 💻 Full Stack Web Developer | Final Year Computer Engineering Student
+### 💻  Full Stack Developer | Frontend-Focused | Odoo Technical & Functional Consultant
 
 # 💫 About Me:
-🎓 Final-year Computer Engineering student at École Polytechnique de Sousse.<br>💻 Full Stack MERN Developer (MongoDB, Express.js, React.js, Node.js).<br>🚀 Currently working on my final internship project.<br><br>🔥 What I’m Passionate About:<br>Building modern, scalable web applications.<br>DevOps practices with Docker, Kubernetes, Jenkins, and Azure VMs.<br>Exploring new technologies and best practices in Web Development and DevOps.
+🎓 Full Stack Developer with production experience across modern (React, Angular, NestJS) and PHP-based (CodeIgniter4) web stacks, comfortable moving between component-driven frontends and server-rendered templates. Strong REST API design background from internship work, paired with hands-on Odoo SaaS implementation and customization (views, QWeb templates) as the sole technical owner of a company's business platform. Comfortable across relational and NoSQL databases (MySQL, MongoDB). French: B2, actively building toward full professional fluency; English: Advanced; Arabic: Native.
 
 
 ## 🌐 Socials:
